@@ -1,0 +1,56 @@
+If you need to keep costs under control with a budget, which software development methodology should you use?
+waterfall.
+What are considered the essential properties of security?
+Integrity.
+Which of these is not a way of describing a methodology?
+A set of documentation.
+Which task is the first step in most development methodologies
+Requirements.
+Which of these is a positive aspect of the waterfall methodology?
+End goals are defined early.
+Which of these is a common value of Agile, Extreme Programming, and Rapid Application Development?
+User focused.
+Which of these is commonly thought to be a defining feature of Agile?
+Iterative development cycles.
+Which of these practices is, in part, a result of development handing off work product without any consultation?
+Devops.
+If you were working on shifting left, which phase would you be most interested in introducing security practices into?
+Requirements.
+Any security practitioner can be inserted into any phase of a development lifecycle and expected to be successful
+False
+If you wanted a way of visualizing boundaries within your application so you could find areas that needed additional communications protections, what practice could you use?
+ Data Flow Diagrams.
+ Which phase of development would you be least likely to do threat modeling?
+ Deployment.
+ Which of these is not a threat modeling practice?
+ BATMAN.
+ Which of these should you not put into authentication logs?
+ username and password.
+ What practice could you use to mitigate a concern about integrity?
+ cryptography hashing.
+ What practice could you use to mitigate a concern about confidentiality?
+ Encryption.
+ What development practice is helpful in keeping consistent practices, so developers aren’t always writing their own code for everything?
+ Code reuse.
+ What does the fail fast principle help with??
+ Error being identifed late in procesing.
+ What is a good use of style guides to help with security?
+ Make code more readable.
+  Which of these is a common problem across many of the OWASP top 10 issues?
+  Trusting input data.
+  Which type of testing should developers be involved with?
+  Unit testing.
+  Which of these is an advantage to automated deployments from a security perspective?
+  consistency deployments.
+  What is an advantage of infrastructure as code that you can’t guarantee with manual deployments?
+  Ability to test.
+  Which of these can be built into a development pipeline?
+  All of the above.
+  Why is application security testing often performed after deployment?
+  Time Consuming.
+  
+  
+  
+  
+  
+ 
